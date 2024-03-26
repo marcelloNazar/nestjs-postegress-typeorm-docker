@@ -1,0 +1,4 @@
+
+POST http://localhost:3000/courses
+GET http://localhost:3000/courses
+GET http://localhost:3000/courses
